@@ -1,507 +1,211 @@
-<!-- ========================================================= -->
-<!--                    KIYA GITHUB PROFILE                    -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-  <!-- HERO -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=ENDGENA%20ABEBE&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=KIYA%20%E2%80%A2%20FULL-STACK%20DEVELOPER%20%E2%80%A2%20BUILDER&descAlignY=58&descSize=18&animation=fadeIn"
-    width="100%"
-  />
+# ⚡ KIYA
 
-  <br>
+### Endegena Abebe
 
-  <!-- TYPING ANIMATION -->
-  <a href="https://github.com/kiyaab">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+%F0%9F%92%BB;Frontend+Specialist+%E2%9C%A8;UI%2FUX+Designer+%F0%9F%8E%A8;AI+%26+Digital+Product+Builder+%F0%9F%A4%96;Building+from+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9+for+the+World+%F0%9F%8C%8D"
-      alt="Typing SVG"
-    />
-  </a>
+**Full-Stack Developer • UI/UX Designer • Frontend Specialist • AI Enthusiast**
 
-  <br><br>
+🇪🇹 Ethiopia | 🚀 Building the Future
 
-  <!-- SOCIAL BADGES -->
-  <a href="https://kiya-dev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-
-  <a href="mailto:bogemamo124@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/endegenaabedev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://t.me/itz_kiyaaa">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-
-  <a href="https://www.tiktok.com/@_kiya55">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-
-  <a href="https://orcid.org/0009-0002-9118-8434">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
-  </a>
-
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=kiyaab&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" />
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-111827?style=for-the-badge)](https://kiya-dev.vercel.app)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-111827?style=for-the-badge&logo=github)](https://github.com/kiyaab)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-111827?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/endegenaabedev/)
+[![Telegram](https://img.shields.io/badge/💬_Telegram-111827?style=for-the-badge&logo=telegram)](https://t.me/itz_kiyaaa)
 
 </div>
-
-<br>
 
 ---
 
-# 👋 Hello, I'm **Endegena Abebe**
-
-<div align="center">
-
-### **Kiya**
-
-> **Full-Stack Developer @ HUNDAF DIGITAL SOLUTION**  
-> **Frontend Specialist • UI/UX Designer • 18 y/o Tech Enthusiast**
-
-</div>
-
-<br>
-
-I'm **Endegena Abebe**, professionally known as **Kiya** — a software developer, frontend specialist, UI/UX designer, and technology enthusiast focused on building digital products that are useful, scalable, accessible, and beautiful.
-
-I love taking an idea from:
+## 🎮 PLAYER PROFILE
 
 ```text
-💡 Idea
-   ↓
-🎨 Design
-   ↓
-🧠 Architecture
-   ↓
-💻 Development
-   ↓
-🤖 AI Integration
-   ↓
-🧪 Testing
-   ↓
-🚀 Deployment
-   ↓
-🌍 Real-World Impact
-
-🧭 What I Do
-<table> <tr> <td width="50%" valign="top">
-💻 Full-Stack Development
-
-I build complete web applications from the interface to the database.
-
-REST APIs
-Authentication systems
-Payment integrations
-Admin dashboards
-Database architecture
-API integrations
-Scalable backend systems
-Responsive frontend systems
-</td> <td width="50%" valign="top">
-🎨 Frontend & UI/UX
+╔══════════════════════════════════════════════╗
+║                 KIYA.EXE                     ║
+╠══════════════════════════════════════════════╣
+║ CLASS      : FULL-STACK DEVELOPER             ║
+║ LEVEL      : 18                               ║
+║ LOCATION   : ETHIOPIA 🇪🇹                    ║
+║ SPECIALTY  : BUILDING DIGITAL PRODUCTS       ║
+║ STATUS     : ONLINE 🟢                       ║
+╚══════════════════════════════════════════════╝
+```
 
-I care about how software feels, not just how it works.
+I'm **Endegena Abebe**, also known as **Kiya**.
 
-Modern interfaces
-Responsive design
-Design systems
-UX architecture
-Accessibility
-Micro-interactions
-Animations
-Mobile-first development
-</td> </tr> <tr> <td width="50%" valign="top">
-🤖 AI & Automation
+I'm a Full-Stack Developer at **HUNDAF DIGITAL SOLUTION**, focused on building modern web applications, beautiful interfaces, AI-powered products, and technology that solves real problems.
 
-Exploring practical applications of AI.
+> **Code is my weapon. Creativity is my power. 🚀**
 
-AI integrations
-AI chatbots
-Prompt engineering
-Automation
-Intelligent workflows
-ML fundamentals
-AI-powered applications
-</td> <td width="50%" valign="top">
-🚀 Product Building
+---
 
-I enjoy turning ideas into actual products.
+## 💻 TECH STACK
 
-Product architecture
-MVP development
-Digital platforms
-Educational technology
-Accessibility technology
-Business solutions
-Deployment & maintenance
-</td> </tr> </table>
-⚡ My Modern Stack
+**Frontend**
 
-A modern stack tuned for shipping products that matter.
+`React` `Next.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap 5` `Redux`
 
-<br>
-🎨 Frontend
-<div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,bootstrap,redux,html,css&perline=9" /> </div> <br>
+**Backend**
 
-React.js • Next.js • TypeScript • JavaScript • Tailwind CSS • Bootstrap 5 • Redux • Framer Motion • HTML5 • CSS3 • Responsive Design
+`Python` `Django` `Django REST Framework` `Node.js` `Express.js` `FastAPI`
 
-🐍 Backend
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,fastapi&perline=8" /> </div> <br>
+**Database**
 
-Python • Django • Django REST Framework • Node.js • Express.js • REST APIs • JWT Authentication • Payment Systems • Authentication Systems
+`PostgreSQL` `MySQL` `SQLite` `MongoDB`
 
-🗄️ Databases
-<div align="center"> <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=8" /> </div> <br>
+**Tools**
 
-PostgreSQL • MySQL • SQLite • MongoDB • Database Design • Query Optimization • DB Performance
+`Git` `GitHub` `Linux` `Docker` `Vercel` `Nginx` `VS Code` `Figma`
 
-🎨 Design
-<div align="center"> <img src="https://skillicons.dev/icons?i=figma,xd&perline=8" /> </div> <br>
+**AI**
 
-UI/UX Design • Figma • Adobe XD • Accessibility • Design Systems • PWA • Responsive UX
+`AI Integration` `Prompt Engineering` `AI Chatbots` `Automation` `ML Basics`
 
-☁️ DevOps & Developer Tools
-<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vercel,nginx,vscode&perline=8" /> </div> <br>
+---
 
-Git • GitHub • Linux • Docker • Vercel • Netlify • Nginx • VS Code
+## 🚀 WHAT I BUILD
 
-🤖 AI & Emerging Technology
-<div align="center"> <img src="https://skillicons.dev/icons?i=python&perline=8" /> </div> <br>
+```text
+🌐 Modern Web Applications
+🤖 AI-Powered Products
+🎨 Beautiful UI/UX
+📱 Responsive Experiences
+⚙️ REST APIs
+🔐 Authentication Systems
+💳 Payment Systems
+📊 Admin Dashboards
+♿ Accessibility Solutions
+🎓 Educational Platforms
+```
 
-Prompt Engineering • AI Integration • AI Chatbots • Machine Learning Fundamentals • Automation • AI-powered Products
+---
 
-🚀 Featured Work
-<div align="center">
-Building technology around real problems.
-</div> <br> <table> <tr> <td width="50%" valign="top">
-🎓 Temar Lije
-ተማር ልጄ
+## 🎯 MY PROJECTS
 
-An education technology platform designed around learning, examination preparation, digital resources, AI-assisted learning, and student productivity.
+### 🎓 Temar Lije — ተማር ልጄ
 
-Focus
+An educational technology platform designed to help students learn, practice, prepare for exams, and access digital learning resources.
 
-Education AI Web Learning
+`Django` `React` `AI` `PostgreSQL`
 
-</td> <td width="50%" valign="top">
-♿ Eyeta ET
-ዕይታ
+---
 
-An accessibility-focused technology project built around Braille and multilingual digital accessibility.
+### ♿ Eyeta ET — ዕይታ
 
-Focus
+An accessibility-focused project for Braille translation, multilingual communication, and assistive technology.
 
-Accessibility AI Languages Assistive Tech
+`Python` `AI` `Accessibility`
 
-</td> </tr> <tr> <td width="50%" valign="top">
-🐧 AfroKernel
+---
 
-A Linux administration learning platform focused on helping learners understand Linux and system administration.
+### 🐧 AfroKernel
 
-Focus
+A Linux administration learning platform designed to make Linux and system administration easier to learn.
 
-Linux Education Systems Web
+`Linux` `Python` `Web`
 
-</td> <td width="50%" valign="top">
-🌐 HUNDAF DIGITAL SOLUTION
+---
 
-Digital product development and technology solutions focused on building useful digital experiences.
+### 🌐 HUNDAF DIGITAL SOLUTION
 
-Focus
+Building modern digital products, software solutions, AI systems, and user experiences.
 
-Digital Products Web Business Innovation
+`Django` `React` `AI` `UI/UX`
 
-</td> </tr> </table>
-🏆 Recognition & Milestones
-<div align="center">
-11 entries · 🇪🇹 Ethiopia
-</div> <br> <table> <tr> <td width="50%" valign="top">
-🥇 Winner of the Year — MWU
+---
 
-2025/26
+## 🏆 ACHIEVEMENTS
 
-Madda Walabu University
+🏆 **Winner of the Year — Madda Walabu University**
 
-Recognition for outstanding achievement and performance.
+🥇 **1st Place — National Science & Engineering Fair**
 
-</td> <td width="50%" valign="top">
-🥇 1st Place — National Science & Engineering Fair
+🎓 **Scholarship to AASTU**
 
-2025
+🥇 **1st Place — Ministry of Innovation & Technology Competition**
 
-🏅 Scholarship to AASTU
+🥈 **2nd Place — FAWF & STEM Power Web App Competition**
 
-A major national-level achievement in science and engineering.
+🥈 **2nd Place — Oromia Job Creation Competition**
 
-</td> </tr> <tr> <td width="50%" valign="top">
-🥇 1st Place — MinT Startup Training & Competition
+🥈 **2nd Place — STEM Entrepreneurship Club Competition**
 
-2025
+📜 **Ethiopian 5 Million Coders — Programming Fundamentals**
 
-Ministry of Innovation & Technology
+📱 **Ethiopian 5 Million Coders — Android Development**
 
-Recognition through startup training and competition.
+📊 **Ethiopian 5 Million Coders — Data Science**
 
-</td> <td width="50%" valign="top">
-🥈 2nd Place — FAWF & STEM Power Ethiopic Web App Competition
+🤖 **Ethiopian 5 Million Coders — AI Fundamentals**
 
-2025
+---
 
-STEM Power / FAWF
+## 📊 GITHUB
 
-Recognition for web application innovation.
-
-</td> </tr> <tr> <td width="50%" valign="top">
-🥈 2nd Place — Oromia Job Creation Competition
-
-2025
-
-Oromia Region
-
-Recognition for innovation and job-creation-oriented entrepreneurship.
-
-</td> <td width="50%" valign="top">
-🥈 2nd Place — STEM Entrepreneurship Club Competition
-
-2025
-
-STEM Club
-
-Recognition for entrepreneurship and innovation.
-
-</td> </tr> <tr> <td width="50%" valign="top">
-🎓 Graduated — STEM Entrepreneurship Club
-
-2025
-
-STEM Club · Assistant Lecturer
-
-Completed the STEM entrepreneurship program.
-
-</td> <td width="50%" valign="top">
-🧑‍💻 Ethiopian 5 Million Coders
-
-2024/25
-
-Programming Fundamentals
-
-Certified program.
-
-</td> </tr> <tr> <td width="50%" valign="top">
-📱 Ethiopian 5 Million Coders
-
-2024/25
-
-Android Development Fundamentals
-
-Certified program.
-
-</td> <td width="50%" valign="top">
-📊 Ethiopian 5 Million Coders
-
-2024/25
-
-Data Science Fundamentals
-
-Certified program.
-
-</td> </tr> <tr> <td width="50%" valign="top">
-🤖 Ethiopian 5 Million Coders
-
-2024/25
-
-AI Fundamentals
-
-Certified program.
-
-</td> <td width="50%" valign="top"> </td> </tr> </table>
-📊 GitHub Analytics
-<div align="center"> <a href="https://github.com/kiyaab">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kiyaab&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&theme=tokyonight" alt="Kiya GitHub Statistics" />
-
-</a> <a href="https://github.com/kiyaab">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyaab&layout=compact&langs_count=10&hide_border=true&border_radius=15&theme=tokyonight" alt="Kiya Top Languages" />
-
-</a> </div> <br>
-🔥 GitHub Streak
-<div align="center"> <a href="https://github.com/kiyaab">
-
-<img src="https://streak-stats.demolab.com?user=kiyaab&theme=tokyonight&hide_border=true&border_radius=15" alt="Kiya GitHub Streak" />
-
-</a> </div> <br>
-📈 Contribution Activity
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiyaab&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=ffffff&area=true&hide_border=true" width="100%" alt="Kiya Contribution Activity" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiyaab&show_icons=true&theme=tokyonight&hide_border=true)
 
-</div>
-🐍 My Contribution Journey
-<div align="center">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiyaab&layout=compact&theme=tokyonight&hide_border=true)
 
-<img src="https://raw.githubusercontent.com/kiyaab/kiyaab/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+![GitHub Streak](https://streak-stats.demolab.com?user=kiyaab&theme=tokyonight&hide_border=true)
 
 </div>
 
-Note: The contribution snake requires a GitHub Action to generate the SVG. The setup is explained below.
+---
 
-🧠 Development Philosophy
+## 🧠 DEVELOPER MODE
+
+```python
+while True:
+    learn()
+    create()
+    build()
+    break_things()
+    fix_them()
+    ship()
+
+    # repeat 🚀
+```
+
+---
+
+## 🌍 MY VISION
+
+I want to build technology that is:
+
+**Useful • Beautiful • Accessible • Innovative • Impactful**
+
+Starting from **Ethiopia 🇪🇹** and building for the **world 🌍**.
+
+> **Ideas can start anywhere. Mine started here.**
+
+---
+
+## 📫 CONNECT WITH ME
+
+📧 **Email:** bogemamo124@gmail.com
+
+🌐 **Portfolio:** https://kiya-dev.vercel.app
+
+💼 **LinkedIn:** https://www.linkedin.com/in/endegenaabedev/
+
+💬 **Telegram:** https://t.me/itz_kiyaaa
+
+🎵 **TikTok:** https://www.tiktok.com/@_kiya55
+
+🔬 **ORCID:** https://orcid.org/0009-0002-9118-8434
+
+📱 **Phone:** +251 980 612 356
+
+---
+
 <div align="center">
-01 — Understand
-Understand the problem before writing the solution.
-02 — Design
-Build an experience, not just an interface.
-03 — Engineer
-Write clean, maintainable and scalable code.
-04 — Test
-Break it before the users do.
-05 — Ship
-A product has value when people can actually use it.
-06 — Improve
-Keep learning. Keep building. Keep improving.
-</div>
-🌍 Connect With Me
-<div align="center">
-Let's build something meaningful.
-<br> <a href="mailto:bogemamo124@gmail.com"> <img src="https://img.shields.io/badge/Email-bogemamo124%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
-<br><br>
+## ⚡ BUILD • LEARN • SHIP • REPEAT
 
-<a href="https://kiya-dev.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-kiya--dev.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
+### `GAME ON 🎮`
 
-<br><br>
-
-<a href="https://www.linkedin.com/in/endegenaabedev/"> <img src="https://img.shields.io/badge/LinkedIn-Endegena%20Abebe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-
-<br><br>
-
-<a href="https://t.me/itz_kiyaaa"> <img src="https://img.shields.io/badge/Telegram-%40itz__kiyaaa-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
-
-<br><br>
-
-<a href="https://www.tiktok.com/@_kiya55"> <img src="https://img.shields.io/badge/TikTok-%40__kiya55-000000?style=for-the-badge&logo=tiktok&logoColor=white" /> </a>
-
-<br><br>
-
-<a href="https://orcid.org/0009-0002-9118-8434"> <img src="https://img.shields.io/badge/ORCID-0009--0002--9118--8434-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /> </a>
-
-<br><br>
-
-<a href="tel:+251980612356"> <img src="https://img.shields.io/badge/Phone-%2B251%20980%20612%20356-22C55E?style=for-the-badge&logo=phone&logoColor=white" /> </a> </div>
-📬 Open for Opportunities
-
-I'm interested in connecting with people and organizations working on:
-
-💻 Software Development
-🤖 Artificial Intelligence
-🌍 Digital Transformation
-🎓 EdTech
-♿ Accessibility Technology
-🚀 Startups
-🎨 UI/UX
-🌐 Web Applications
-🤝 Open Source
-💡 Innovation
-
-If you're building something interesting, let's talk.
-
-📧 bogemamo124@gmail.com
-
-
-
-
-╭────────────────────────────────────────────────────╮
-│                                                    │
-│  ██████╗ ██╗   ██╗██╗██╗      ██████╗            │
-│ ██╔═══██╗██║   ██║██║██║     ██╔═══██╗           │
-│ ██║   ██║██║   ██║██║██║     ██║   ██║           │
-│ ██║▄▄ ██║██║   ██║██║██║     ██║   ██║           │
-│ ╚██████╔╝╚██████╔╝██║███████╗╚██████╔╝           │
-│  ╚══▀▀═╝  ╚═════╝ ╚═╝╚══════╝ ╚═════╝            │
-│                                                    │
-│         BUILD • LEARN • SHIP • REPEAT             │
-│                                                    │
-╰────────────────────────────────────────────────────╯
-
-
-
-
-
-
-
-
-
-
-
-                    ┌───────────────────────┐
-
-                    │       BUG FOUND       │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                       "That's impossible."
-                                │
-                                ▼
-                         Add console.log()
-                                │
-                                ▼
-                       Add another console.log()
-                                │
-                                ▼
-                       Add 17 more logs
-                                │
-                                ▼
-                         Find the problem
-                                │
-                                ▼
-                       "Oh... I did that."
-                                │
-                                ▼
-                           🗿 FINISH
-🇪🇹 Built From Ethiopia
-<div align="center">
-Born in Ethiopia 🇪🇹
-Building for Africa 🌍
-Thinking globally 🚀
-<br>
-
-Technology has no borders.
-
-Ideas can start anywhere.
-
-Mine started here. 🇪🇹
+**🇪🇹 KIYA — Full-Stack Developer**
 
 </div>
-⭐ If You Like My Work
-<div align="center">
-
-If something here helped you, inspired you, or you simply like what I'm building:
-
-⭐ Star a repository
-🤝 Connect with me
-💬 Start a conversation
-🚀 Let's build something meaningful
-<br> <a href="https://github.com/kiyaab"> <img src="https://img.shields.io/badge/FOLLOW%20MY%20JOURNEY-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
-<div align="center">
-⚡ END OF README ⚡
-Endegena Abebe · Kiya
-
-Full-Stack Developer • Frontend Specialist • UI/UX Designer
-
-🇪🇹 Ethiopia · 🌍 Open to the World
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
-
-</div> ```
-                           
