@@ -1,139 +1,92 @@
-<h1 align="center">
-  👋 Hello, I'm Endegena Abebe
-</h1>
+<!-- ========================================================= -->
+<!--                    KIYA GITHUB PROFILE                    -->
+<!-- ========================================================= -->
 
-<h3 align="center">
-  Kiya • Full-Stack Developer • Software Engineer • Builder 🇪🇹
-</h3>
+<div align="center">
 
-<p align="center">
+  <!-- HERO -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=ENDGENA%20ABEBE&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=KIYA%20%E2%80%A2%20FULL-STACK%20DEVELOPER%20%E2%80%A2%20BUILDER&descAlignY=58&descSize=18&animation=fadeIn"
+    width="100%"
+  />
+
+  <br>
+
+  <!-- TYPING ANIMATION -->
   <a href="https://github.com/kiyaab">
-    <img src="https://img.shields.io/badge/GitHub-kiyaab-181717?style=for-the-badge&logo=github">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+%F0%9F%92%BB;Frontend+Specialist+%E2%9C%A8;UI%2FUX+Designer+%F0%9F%8E%A8;AI+%26+Digital+Product+Builder+%F0%9F%A4%96;Building+from+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9+for+the+World+%F0%9F%8C%8D"
+      alt="Typing SVG"
+    />
   </a>
-</p>
+
+  <br><br>
+
+  <!-- SOCIAL BADGES -->
+  <a href="https://kiya-dev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="mailto:bogemamo124@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/endegenaabedev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://t.me/itz_kiyaaa">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+  <a href="https://www.tiktok.com/@_kiya55">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+
+  <a href="https://orcid.org/0009-0002-9118-8434">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a>
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=kiyaab&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" />
+
+</div>
+
+<br>
 
 ---
 
-## 🚀 About Me
+# 👋 Hello, I'm **Endegena Abebe**
 
-I'm **Endegena Abebe**, also known as **Kiya**, a passionate software developer from Ethiopia.
+<div align="center">
 
-I enjoy turning ideas into real-world digital products, building modern web applications, integrating AI, and creating technology that solves meaningful problems.
+### **Kiya**
 
-My main interests include:
+> **Full-Stack Developer @ HUNDAF DIGITAL SOLUTION**  
+> **Frontend Specialist • UI/UX Designer • 18 y/o Tech Enthusiast**
 
-- 💻 Full-Stack Web Development
-- 🐍 Python & Django
-- ⚛️ React & Modern Frontend
-- 🤖 Artificial Intelligence
-- 🧠 Software Engineering
-- 📱 Digital Products
-- 🌍 Technology for African Communities
-- 🎓 Educational Technology
-- ♿ Accessibility Technology
+</div>
 
----
+<br>
 
-## 🛠️ Technologies & Tools
+I'm **Endegena Abebe**, professionally known as **Kiya** — a software developer, frontend specialist, UI/UX designer, and technology enthusiast focused on building digital products that are useful, scalable, accessible, and beautiful.
 
-<p align="center">
+I love taking an idea from:
 
-<img src="https://skillicons.dev/icons?i=python,django,js,ts,react,nextjs,html,css,bootstrap,tailwind,nodejs,express,fastapi,postgres,mysql,git,github,docker,linux,vscode&perline=10">
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🎓 Temar Lije — ተማር ልጄ
-
-An educational technology platform designed to help students learn, practice, prepare for examinations, and access digital learning resources.
-
-**Technologies:** Django • React • AI • PostgreSQL • Bootstrap
-
----
-
-### ♿ Eyeta ET — ዕይታ
-
-An accessibility-focused platform for translating between Braille and multiple languages, helping make digital information more accessible.
-
-**Technologies:** Python • AI • Web Technologies
-
----
-
-### 🐧 AfroKernel
-
-A Linux administration and learning platform designed to help users learn Linux system administration through structured educational resources.
-
-**Technologies:** Web Development • Linux • Python
-
----
-
-### 🌐 Hundaf Digital
-
-Digital solutions focused on building modern technology products and services for Ethiopian users and businesses.
-
-**Technologies:** Django • React • JavaScript • AI
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kiyaab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyaab&layout=compact&theme=tokyonight&hide_border=true">
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=kiyaab&theme=tokyonight&hide_border=true">
-
-</p>
-
----
-
-## 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/kiyaab">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
-<a href="YOUR_TELEGRAM">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### 💡 "Building technology that turns ideas into impact."
-
-</p>
-
-<p align="center">
-  🇪🇹 Built from Ethiopia • 🌍 For the world
-</p>
+```text
+💡 Idea
+   ↓
+🎨 Design
+   ↓
+🧠 Architecture
+   ↓
+💻 Development
+   ↓
+🤖 AI Integration
+   ↓
+🧪 Testing
+   ↓
+🚀 Deployment
+   ↓
+🌍 Real-World Impact
